@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyBiographyApp</string>
+    <string name="bio_name">Bi\'ahlil Haq Aulia Akbar Awaludin</string>
+    <string name="short_desc">
+        Biahlil, Mahasiswa Teknologi Informasi di Universitas Lambung Mangkurat, tekun dan bersemangat untuk berkembang.
+    </string>
+    <string name="img_desc">Foto of me</string>
+    <string name="why_text">Why Me</string>
+    <string name="bio">
+        Tempat Lahir : Sampit \n
+        Tanggal Lahir : 14 Februari 2002 \n
+        Alamat : Jl.Awangsejahter No.16 \n
+        Jenis Kelamin : Laki-Laki
+    </string>
+    <string name="long_desc">
+        Biahlil adalah seorang mahasiswa di Universitas Lambung Mangkurat, yang sedang menempuh pendidikan
+        di program studi Teknologi Informasi. Biahlil dikenal sebagai seorang yang memiliki semangat belajar
+        yang tinggi, biahlil berkomitmen untuk mengasah kemampuan dan pengetahuanya agar dapat menjadi
+        profesional yang kompeten di masa depan.
+    </string>
+    <string name="btn1">Know More</string>
+    <string name="btn2">Go Back</string>
+
+</resources>
